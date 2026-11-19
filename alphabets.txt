@@ -1,4 +1,1 @@
-apple
-boy
-cat
-dog
+a b c d e f g
